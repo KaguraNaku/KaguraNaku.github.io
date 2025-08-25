@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mikann-Crossline</title><link>https://mikann.org/</link><description>Recent content on Mikann-Crossline</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 25 Aug 2025 10:51:35 +0200</lastBuildDate><atom:link href="https://mikann.org/index.xml" rel="self" type="application/rss+xml"/><item><title>基本不等式</title><link>https://mikann.org/post/basic-inequalities/</link><pubDate>Tue, 19 Aug 2025 23:00:00 +0800</pubDate><guid>https://mikann.org/post/basic-inequalities/</guid><description>从原理深入记忆较难理解的部分基本不等式</description></item><item><title>线性代数——奇异矩阵（上篇）</title><link>https://mikann.org/post/singular-matrix-episode-1/</link><pubDate>Thu, 14 Aug 2025 09:00:00 +0800</pubDate><guid>https://mikann.org/post/singular-matrix-episode-1/</guid><description>线性代数——奇异矩阵（上篇）</description></item><item><title/><link>https://mikann.org/readme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mikann.org/readme/</guid><description>&lt;h2 id="about-this-site">About this site&lt;/h2>
+&lt;blockquote>
+&lt;p>Engineering create the future through math; Data Science shapes tomorrow through intelligence.&lt;/p>&lt;/blockquote>
+&lt;h2 id="skills">Skills&lt;/h2>
+&lt;ul>
+&lt;li>Python
+&lt;ul>
+&lt;li>torch&lt;/li>
+&lt;li>Scrapy&lt;/li>
+&lt;li>Django&lt;/li>
+&lt;li>FastApi&lt;/li>
+&lt;li>Flask&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>BigData
+&lt;ul>
+&lt;li>Hadoop&lt;/li>
+&lt;li>Spark&lt;/li>
+&lt;li>Kafka&lt;/li>
+&lt;li>Flink&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Java
+&lt;ul>
+&lt;li>Spring FrameWork&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="built-the-site">Built the site&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gohugo.io/">hugo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/MeiK2333/github-style">github-style&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KKKZOZ/hugo-admonitions">hugo-admonitions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pages.github.com/">Github Pages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cloudflare.com/">Cloudflare&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codepen.io/nikhil8krishnan/pen/dMEzGx">Cube Flipping Loader&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
